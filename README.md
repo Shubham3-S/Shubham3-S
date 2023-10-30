@@ -1,3 +1,4 @@
+<img alt="Banner" src="banner.png">
 <h1 align="center">Hi 👋, I'm Shubham Sharma</h1>
 <h3 align="center">I'm a passionate coder based in Canada.</h3>
 <!-- <img aling="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
